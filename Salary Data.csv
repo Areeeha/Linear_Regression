@@ -1,0 +1,501 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+56,Female,PhD,Marketing,35,121988.39
+46,Other,Bachelor's,Legal,7,89210.1
+50,Other,Master's,IT,28,112372.88
+26,Other,Bachelor's,IT,3,71272.56
+30,Other,PhD,Legal,8,57136.13
+45,Male,Bachelor's,Sales,23,66986.94
+59,Other,High School,Finance,29,39118.33
+44,Other,PhD,Operations,8,107814.28
+36,Other,PhD,HR,2,68595.63
+48,Female,Bachelor's,Finance,9,148457.82
+46,Female,Bachelor's,Finance,19,30149.24
+64,Female,Master's,HR,46,125282.18
+39,Male,Bachelor's,HR,18,146394.71
+39,Female,Bachelor's,Engineering,17,136904.81
+49,Female,PhD,Engineering,16,135318.12
+42,Other,PhD,Engineering,21,58994.87
+62,Other,High School,Operations,40,44398.45
+59,Male,PhD,Finance,24,35624.1
+52,Other,Bachelor's,Finance,8,149225.4
+30,Other,PhD,HR,4,78925.57
+42,Other,Bachelor's,Legal,10,67144.93
+55,Other,Master's,Marketing,8,102148.39
+22,Female,Master's,Engineering,3,55098.42
+27,Female,Bachelor's,Finance,0,120745.37
+59,Male,Bachelor's,HR,24,38668.75
+57,Female,Master's,Sales,32,125424.59
+48,Female,Bachelor's,Engineering,27,65985.29
+34,Male,High School,Operations,14,148359.05
+60,Female,High School,Marketing,16,141188.97
+31,Male,Bachelor's,Finance,4,129874.02
+50,Other,High School,Operations,11,44246.12
+60,Other,High School,Marketing,34,34111.28
+39,Other,Bachelor's,Finance,11,82998.65
+40,Other,Bachelor's,Legal,10,128114.51
+47,Male,Master's,Marketing,22,39656.37
+51,Female,Master's,IT,21,124834.84
+23,Female,Bachelor's,Legal,0,58339.13
+26,Other,Master's,IT,8,60806.38
+54,Male,Master's,Engineering,23,106259.94
+43,Male,Bachelor's,Engineering,0,84026.31
+56,Male,PhD,Marketing,19,137010.56
+37,Male,High School,Finance,6,30244.26
+40,Male,High School,Legal,21,45912.4
+44,Other,Master's,Sales,15,51243.56
+43,Other,High School,Engineering,16,148489.1
+22,Other,High School,Operations,4,87343.96
+43,Female,Bachelor's,HR,12,88524.21
+55,Male,Master's,Legal,7,112701.23
+38,Other,Master's,Engineering,17,146249.74
+49,Female,Master's,Finance,17,53332.18
+25,Female,Bachelor's,Sales,1,49970.92
+59,Male,Master's,Finance,8,142861.32
+54,Male,High School,Sales,22,144087.31
+41,Male,High School,Marketing,2,137538.15
+44,Female,Master's,Legal,19,75335.55
+28,Male,PhD,Engineering,7,81054.03
+64,Other,Bachelor's,Finance,4,84065.96
+24,Female,High School,Operations,5,57001.06
+64,Other,PhD,Operations,13,112595.66
+27,Male,High School,Sales,1,142059.92
+54,Other,PhD,IT,10,39666.78
+36,Male,Bachelor's,Legal,13,95913.51
+54,Other,High School,Sales,14,42153.17
+30,Other,High School,Legal,8,91157.32
+32,Other,Bachelor's,Finance,0,92791.32
+41,Male,PhD,Finance,4,136331.54
+65,Other,Bachelor's,Sales,42,132913.39
+22,Other,Bachelor's,Operations,0,89206.42
+54,Other,PhD,Sales,16,90191.86
+43,Female,High School,Operations,14,114232.67
+28,Other,High School,Legal,10,50659.43
+45,Female,PhD,IT,18,61936.36
+64,Female,High School,Legal,12,91259.48
+30,Male,PhD,Engineering,1,105033.52
+34,Female,High School,Operations,5,103308.52
+43,Female,High School,Operations,12,137815.27
+33,Male,Master's,Operations,10,34892.89
+47,Female,High School,Operations,8,56013.89
+52,Female,Bachelor's,Marketing,16,45829.17
+64,Female,High School,Legal,19,80001.36
+59,Female,High School,Marketing,34,146079.06
+33,Male,High School,Legal,12,37194.63
+43,Other,PhD,Legal,22,70086.46
+26,Female,Master's,Finance,0,35345.03
+50,Male,High School,Legal,23,71625.76
+48,Other,Master's,Engineering,2,90257.77
+49,Male,PhD,HR,0,44504.39
+24,Male,Master's,Engineering,1,121781.56
+57,Female,PhD,Sales,29,52243.61
+35,Other,PhD,HR,10,43836.13
+35,Other,Bachelor's,Sales,12,66536.99
+44,Male,Master's,HR,4,138806.28
+25,Male,Master's,Operations,6,62364.34
+28,Male,High School,HR,2,35292.22
+26,Other,High School,Legal,4,106084.6
+55,Other,Master's,HR,28,52482.49
+52,Male,Bachelor's,IT,26,120992.0
+24,Male,High School,Finance,6,85770.42
+32,Female,High School,Sales,9,87920.61
+56,Other,PhD,Marketing,27,113257.44
+50,Other,PhD,Operations,27,149972.47
+32,Male,Bachelor's,Sales,5,105865.84
+55,Other,PhD,IT,8,92388.98
+63,Female,High School,Sales,24,56954.93
+23,Female,Bachelor's,Operations,1,83899.38
+38,Female,Master's,Operations,10,36639.87
+29,Other,PhD,Finance,6,93428.67
+48,Male,Master's,Legal,6,147072.56
+28,Female,Master's,Legal,10,113290.44
+28,Male,Bachelor's,Operations,6,141157.43
+49,Male,High School,HR,27,142074.16
+53,Male,High School,Sales,19,97916.84
+50,Other,High School,Engineering,14,133593.42
+49,Female,PhD,Marketing,9,70016.38
+51,Male,High School,HR,11,96840.58
+55,Other,PhD,Finance,0,121870.01
+26,Female,Master's,IT,2,75324.91
+44,Female,Master's,Legal,1,130724.83
+44,Other,PhD,Legal,25,102345.11
+34,Female,Master's,Engineering,4,111357.31
+26,Male,High School,HR,7,71079.42
+27,Male,Bachelor's,Sales,8,78378.28
+22,Female,Bachelor's,IT,2,31939.99
+38,Female,High School,Engineering,20,51483.31
+38,Female,High School,Marketing,3,131187.03
+33,Other,Master's,Finance,0,58208.84
+42,Other,High School,Engineering,13,125893.09
+64,Male,Bachelor's,Legal,25,34098.85
+41,Other,Bachelor's,Operations,9,60358.85
+37,Male,Bachelor's,Marketing,3,72848.27
+37,Male,Master's,Engineering,14,85645.82
+61,Male,Bachelor's,IT,22,112424.63
+45,Male,High School,Finance,21,79713.3
+61,Other,High School,Engineering,15,136518.71
+42,Female,PhD,IT,4,144338.13
+28,Male,High School,IT,0,33507.0
+65,Other,High School,IT,19,107893.49
+55,Male,Master's,Marketing,5,89888.34
+38,Female,Master's,IT,3,77399.46
+36,Other,Bachelor's,Operations,9,35103.78
+42,Male,Master's,Finance,19,55030.47
+30,Other,PhD,Legal,7,136114.51
+41,Male,High School,Legal,14,65985.3
+32,Male,PhD,HR,2,69915.54
+30,Female,Master's,Operations,7,104158.02
+38,Female,Master's,Legal,14,83262.57
+31,Male,High School,Finance,8,111684.47
+44,Other,PhD,Operations,2,43026.14
+22,Female,PhD,IT,0,81932.17
+35,Other,PhD,Finance,10,70266.37
+43,Female,Bachelor's,Sales,15,100965.86
+54,Female,High School,IT,23,64211.57
+60,Male,PhD,IT,29,68315.84
+42,Male,PhD,Sales,15,35249.19
+44,Other,Master's,Marketing,5,41637.13
+39,Female,Bachelor's,Operations,7,38132.09
+64,Female,High School,IT,19,55825.23
+32,Male,Master's,Engineering,8,109846.73
+54,Female,High School,Legal,25,58653.92
+41,Female,High School,IT,2,70886.51
+55,Female,PhD,Operations,29,78058.7
+65,Other,Bachelor's,Legal,6,143979.95
+34,Other,Master's,IT,12,93925.06
+61,Male,High School,HR,30,83575.01
+47,Male,High School,Marketing,3,130408.77
+65,Female,High School,IT,21,117806.8
+65,Female,High School,Sales,23,128620.32
+42,Other,High School,Marketing,5,101295.61
+56,Other,PhD,Sales,27,79752.77
+40,Other,High School,Finance,5,53461.12
+24,Other,Bachelor's,Finance,6,68200.02
+33,Male,High School,Sales,2,96501.84
+34,Female,Bachelor's,Finance,2,122310.54
+54,Male,Master's,HR,19,136276.72
+22,Female,PhD,Engineering,4,130341.78
+47,Female,Bachelor's,Engineering,21,79718.26
+34,Other,Master's,Marketing,16,144866.12
+55,Male,Master's,Engineering,15,87150.85
+36,Female,High School,IT,7,124153.57
+32,Other,Bachelor's,Legal,8,91127.3
+59,Male,PhD,Marketing,25,89204.26
+38,Female,Bachelor's,Operations,6,43641.39
+61,Male,High School,HR,18,46100.36
+29,Other,Bachelor's,IT,9,46180.33
+60,Other,PhD,Sales,5,72036.53
+44,Other,Master's,Sales,2,34377.68
+32,Male,PhD,HR,14,149047.3
+23,Other,PhD,Marketing,5,101294.79
+49,Female,Master's,Marketing,30,142536.13
+34,Female,Master's,Sales,15,120864.14
+31,Male,High School,Engineering,11,95916.83
+35,Other,High School,Marketing,13,70185.25
+63,Other,Master's,Operations,35,107527.04
+31,Female,High School,HR,6,126530.16
+54,Male,Master's,Engineering,33,51462.68
+50,Female,Master's,Legal,0,66837.32
+28,Male,PhD,Operations,0,112279.0
+41,Male,Master's,IT,3,107080.34
+37,Other,Bachelor's,Finance,0,132317.91
+41,Other,PhD,Sales,1,122325.15
+64,Other,High School,Sales,4,128449.69
+50,Female,Bachelor's,Sales,12,115933.56
+39,Male,High School,Marketing,3,77009.1
+22,Other,High School,IT,3,78993.81
+56,Female,High School,Engineering,21,33526.22
+50,Female,PhD,IT,4,139697.83
+26,Male,High School,Legal,4,45103.11
+36,Male,PhD,Operations,16,84041.18
+22,Other,Bachelor's,Engineering,0,122279.21
+64,Male,High School,IT,12,108350.67
+46,Female,PhD,Operations,25,114573.16
+37,Female,Bachelor's,Operations,0,124988.1
+50,Other,High School,Sales,3,48315.98
+41,Female,Master's,Engineering,20,144430.19
+37,Male,Bachelor's,IT,5,137381.61
+45,Male,Master's,Operations,21,91520.46
+57,Male,High School,Engineering,2,80828.26
+58,Female,Master's,Sales,35,52341.73
+28,Female,Master's,Engineering,8,80129.33
+36,Other,High School,Legal,8,105766.7
+57,Female,High School,HR,16,78089.98
+64,Male,Bachelor's,Operations,23,114068.07
+36,Female,High School,Sales,12,121154.12
+24,Male,PhD,Sales,6,45271.9
+42,Male,High School,Marketing,22,147815.38
+36,Male,Master's,Marketing,7,57647.18
+31,Other,PhD,Legal,8,73064.69
+45,Female,Master's,Finance,5,56775.96
+51,Female,High School,Operations,20,120652.15
+60,Other,Master's,Engineering,23,70403.83
+62,Male,Master's,Operations,40,55598.01
+42,Male,Master's,Sales,13,96622.33
+30,Female,PhD,Legal,9,51025.47
+43,Other,Master's,Engineering,1,133564.18
+56,Female,PhD,Engineering,6,134332.15
+33,Other,Master's,HR,12,108235.12
+46,Other,High School,Engineering,12,53549.67
+34,Other,PhD,Engineering,2,31699.37
+51,Male,High School,Finance,3,138462.4
+50,Female,Bachelor's,HR,18,49120.18
+38,Other,PhD,HR,12,124327.72
+36,Female,Bachelor's,Engineering,12,32824.42
+62,Female,PhD,HR,37,120126.19
+31,Female,Bachelor's,HR,2,128623.54
+51,Female,Master's,IT,13,37953.22
+24,Other,PhD,Engineering,6,100224.66
+60,Other,Master's,Operations,15,56959.3
+56,Other,Master's,Marketing,33,134289.52
+42,Female,Bachelor's,Engineering,11,95473.83
+58,Female,Bachelor's,HR,25,119552.08
+39,Other,High School,Legal,0,71457.71
+35,Other,Bachelor's,HR,14,94524.79
+40,Female,Master's,HR,19,109062.68
+64,Other,PhD,IT,7,129320.47
+26,Female,High School,Marketing,0,145620.88
+53,Other,PhD,Engineering,27,43651.39
+42,Other,PhD,Legal,23,132773.66
+62,Other,Master's,Operations,24,146520.98
+48,Other,PhD,Sales,1,101947.49
+28,Female,Bachelor's,Marketing,4,108791.13
+41,Other,High School,HR,8,144162.59
+47,Male,High School,HR,9,138862.0
+55,Female,Bachelor's,IT,7,135982.01
+46,Female,PhD,Engineering,18,120292.79
+60,Male,PhD,Marketing,18,54613.02
+50,Female,Master's,Marketing,6,108855.21
+44,Male,Bachelor's,Sales,26,84843.92
+57,Female,High School,IT,19,67696.69
+30,Other,Master's,Finance,5,115410.76
+52,Female,PhD,Finance,18,30414.0
+60,Female,Bachelor's,Engineering,33,142087.25
+34,Female,High School,IT,12,146249.92
+28,Female,Master's,IT,5,114085.91
+52,Other,PhD,Finance,3,63559.38
+41,Female,Master's,Finance,0,36760.69
+65,Female,Master's,Operations,21,113278.06
+60,Female,High School,Marketing,10,76760.74
+38,Female,High School,Marketing,9,32412.31
+46,Female,Bachelor's,Marketing,12,88188.16
+42,Female,PhD,Finance,12,59715.21
+24,Other,Master's,IT,1,93840.98
+30,Female,High School,HR,5,45079.56
+56,Female,PhD,IT,9,53247.85
+49,Male,PhD,IT,3,57501.35
+27,Other,PhD,Engineering,8,71566.53
+55,Male,High School,Sales,26,68388.37
+39,Male,High School,Engineering,9,92573.37
+39,Female,High School,Legal,18,99447.56
+40,Male,High School,Marketing,16,42164.82
+64,Male,Bachelor's,Marketing,17,82512.38
+52,Other,Master's,HR,3,81747.64
+41,Other,Master's,Engineering,7,55088.3
+64,Male,High School,Sales,3,34886.31
+42,Male,High School,IT,24,46587.19
+33,Female,Master's,HR,9,67692.19
+36,Other,Master's,IT,16,100765.01
+58,Female,Master's,Legal,23,104257.96
+47,Male,Bachelor's,Sales,18,145650.1
+48,Other,High School,Operations,6,49988.32
+30,Other,Master's,IT,2,83718.22
+36,Male,PhD,HR,0,141638.26
+24,Female,Master's,Finance,0,119511.1
+64,Male,High School,Operations,40,84813.18
+56,Female,PhD,Legal,13,132686.13
+22,Male,Bachelor's,Operations,4,52950.69
+47,Male,High School,Engineering,9,100800.64
+50,Other,Bachelor's,Engineering,0,76491.48
+43,Other,Master's,Sales,15,41786.62
+48,Other,Bachelor's,Legal,16,38283.54
+36,Other,PhD,Engineering,4,145871.4
+58,Male,PhD,HR,34,61578.79
+51,Male,PhD,Marketing,13,80944.19
+30,Other,Bachelor's,Engineering,4,35578.18
+62,Male,Master's,Marketing,31,53343.1
+64,Male,High School,Marketing,37,101229.95
+25,Other,High School,HR,5,71705.64
+28,Male,Bachelor's,Legal,5,83542.15
+55,Female,High School,IT,35,119482.72
+55,Female,PhD,Sales,7,83007.19
+23,Other,PhD,Operations,5,40815.21
+53,Male,PhD,HR,23,54448.54
+44,Male,PhD,Sales,21,45686.37
+65,Other,PhD,IT,18,67231.75
+57,Female,Master's,HR,8,60258.9
+53,Male,Master's,Finance,4,48965.16
+34,Male,Master's,HR,2,108156.2
+43,Other,PhD,Finance,8,37784.26
+39,Other,High School,Marketing,20,101467.21
+28,Male,PhD,HR,2,80493.99
+22,Female,PhD,IT,0,60581.45
+48,Female,Master's,HR,28,122009.54
+59,Female,Master's,Engineering,2,72514.05
+44,Other,Bachelor's,Engineering,16,122165.88
+54,Female,PhD,Legal,22,98445.51
+43,Male,Master's,Engineering,5,103261.67
+51,Other,Bachelor's,Sales,3,99168.59
+29,Female,Master's,Engineering,4,114171.8
+58,Male,High School,Finance,16,48424.82
+58,Male,High School,IT,13,99955.96
+48,Other,Master's,Sales,19,45028.24
+58,Female,Bachelor's,Legal,31,126516.2
+63,Male,Master's,Operations,37,42497.45
+44,Male,High School,Operations,3,123388.76
+42,Other,Master's,Engineering,13,87103.39
+33,Female,Bachelor's,Operations,1,35652.74
+36,Other,Master's,Finance,18,145092.05
+45,Other,PhD,Finance,16,124063.75
+63,Other,Master's,Operations,41,149232.28
+35,Other,Bachelor's,Finance,10,53285.37
+41,Female,Master's,HR,16,66183.92
+62,Other,Master's,Operations,38,54652.28
+53,Other,Master's,IT,20,89390.07
+55,Female,PhD,HR,22,113409.39
+53,Male,Bachelor's,IT,16,131354.79
+44,Other,Bachelor's,Engineering,19,57441.88
+30,Other,Master's,Marketing,9,44651.46
+60,Female,Bachelor's,Finance,2,36812.19
+59,Female,Bachelor's,Operations,41,51625.15
+65,Female,PhD,Engineering,43,132886.43
+58,Male,PhD,Sales,0,103014.35
+35,Other,Master's,IT,10,115630.44
+46,Female,PhD,Finance,22,110717.33
+56,Other,Bachelor's,Operations,38,85266.04
+59,Other,Bachelor's,HR,9,40339.78
+54,Other,Bachelor's,IT,26,88436.12
+59,Female,PhD,Sales,22,126763.51
+53,Male,High School,Operations,27,95925.83
+29,Male,High School,IT,6,141853.95
+35,Other,PhD,Operations,11,146676.48
+55,Other,Bachelor's,IT,21,46755.22
+26,Female,High School,Finance,6,44818.52
+36,Male,Master's,Legal,4,119108.35
+23,Other,Master's,IT,0,146980.31
+33,Male,Bachelor's,Operations,9,85260.97
+38,Other,PhD,Operations,18,83821.12
+30,Other,Master's,Sales,1,106077.5
+50,Female,Bachelor's,HR,30,137256.46
+43,Male,High School,IT,8,105871.08
+47,Other,PhD,Finance,13,33509.07
+43,Female,Master's,Engineering,23,54132.5
+45,Male,Master's,Finance,11,102634.06
+54,Female,Bachelor's,Marketing,12,76035.11
+29,Other,Bachelor's,Finance,3,109795.15
+58,Female,Master's,Finance,23,36476.47
+24,Other,Master's,Marketing,3,36360.1
+28,Female,High School,Finance,4,135436.41
+33,Female,High School,IT,6,35057.18
+48,Other,Master's,Legal,28,44150.77
+41,Other,Bachelor's,IT,11,112849.32
+29,Other,Master's,Marketing,7,87423.84
+47,Female,PhD,Sales,8,94990.93
+31,Other,PhD,HR,13,55425.43
+52,Other,Master's,Marketing,19,39889.57
+28,Female,Master's,Marketing,6,64219.48
+53,Male,PhD,Sales,28,42301.1
+52,Male,PhD,IT,0,108946.5
+25,Other,Bachelor's,Engineering,7,111256.3
+38,Male,High School,Marketing,10,34453.2
+54,Male,Master's,Engineering,32,122907.75
+59,Female,Bachelor's,Operations,0,86545.19
+27,Female,Master's,Sales,1,73903.64
+23,Male,High School,Operations,4,96933.62
+36,Male,PhD,HR,0,123115.06
+30,Female,Bachelor's,IT,1,70364.86
+58,Male,PhD,HR,28,61704.05
+53,Male,PhD,Legal,35,30841.38
+52,Other,PhD,Finance,30,66238.73
+41,Other,PhD,IT,14,61159.03
+49,Other,Bachelor's,Sales,11,121248.03
+43,Male,High School,Engineering,7,100483.95
+46,Male,Master's,Engineering,12,46951.47
+45,Female,High School,Operations,9,41063.41
+35,Female,Master's,Engineering,15,125227.8
+63,Other,PhD,Sales,25,122371.65
+47,Female,High School,Engineering,29,108205.51
+65,Other,Bachelor's,Operations,39,85535.31
+48,Female,PhD,Legal,6,110599.71
+61,Other,PhD,Operations,16,100795.66
+29,Female,High School,Legal,5,118011.87
+29,Female,High School,HR,6,33469.84
+43,Male,High School,Sales,17,69487.5
+40,Male,High School,Operations,16,134514.31
+33,Other,Bachelor's,Finance,0,131272.36
+36,Other,PhD,Engineering,17,127580.79
+50,Male,Bachelor's,Finance,7,99152.6
+36,Other,PhD,Legal,14,48051.91
+51,Other,Master's,Sales,25,92748.93
+51,Male,PhD,HR,23,134021.49
+36,Male,Master's,Operations,8,83391.68
+53,Other,PhD,Sales,26,81314.93
+41,Female,PhD,Operations,15,142268.51
+24,Female,Bachelor's,Engineering,1,120494.2
+33,Male,Bachelor's,Legal,11,98488.33
+36,Female,PhD,Engineering,5,102319.96
+34,Female,High School,Engineering,6,90979.67
+54,Male,Master's,Operations,7,103388.46
+39,Female,Master's,Operations,5,101874.58
+52,Other,Master's,IT,9,95745.4
+54,Female,High School,Legal,25,66332.88
+44,Male,Bachelor's,Marketing,15,144016.45
+40,Other,Master's,Sales,9,147119.0
+41,Other,High School,IT,7,67468.31
+25,Female,PhD,Legal,5,64402.19
+31,Other,High School,Legal,4,37573.76
+47,Male,PhD,Legal,11,141597.9
+35,Other,High School,Legal,4,142390.73
+48,Other,PhD,Marketing,24,142721.18
+31,Other,PhD,IT,6,79353.32
+47,Other,Bachelor's,IT,3,144454.96
+43,Male,PhD,Engineering,21,47854.41
+62,Male,High School,Marketing,5,132362.71
+41,Male,Bachelor's,Marketing,15,110833.91
+41,Other,Bachelor's,HR,6,36015.14
+29,Other,Bachelor's,Marketing,1,56799.01
+62,Male,PhD,Marketing,2,49285.24
+29,Other,Bachelor's,IT,5,51075.07
+58,Male,Master's,Finance,6,120681.18
+62,Other,Bachelor's,Marketing,7,126095.3
+24,Female,Bachelor's,IT,2,133280.82
+60,Male,Master's,Sales,1,102475.7
+65,Male,High School,HR,14,124862.17
+61,Female,High School,HR,32,44671.52
+41,Male,High School,Engineering,8,147332.81
+56,Other,Master's,IT,17,146073.36
+60,Other,High School,Marketing,24,110179.84
+59,Other,High School,Finance,10,49916.38
+42,Male,PhD,HR,21,96138.66
+40,Other,Master's,IT,16,47580.94
+62,Female,PhD,Engineering,8,140821.71
+55,Male,PhD,IT,11,142231.23
+57,Other,PhD,Operations,18,48998.56
+25,Other,Master's,Legal,2,77796.2
+63,Female,Bachelor's,IT,8,100653.99
+54,Other,Master's,HR,11,115945.81
+23,Male,High School,Engineering,2,56124.71
+36,Other,High School,Operations,12,81540.49
+29,Male,Master's,Sales,5,103814.23
+39,Female,Bachelor's,Marketing,11,104133.48
+62,Female,Bachelor's,HR,31,77331.91
+47,Female,Master's,HR,14,80968.44
+26,Other,PhD,Engineering,5,128150.47
+52,Other,PhD,Sales,8,105465.5
+38,Other,High School,Legal,1,98843.83
+34,Other,High School,Sales,3,105574.99
+56,Other,PhD,IT,35,43873.13
+36,Male,Bachelor's,Sales,0,47408.88
+42,Other,Bachelor's,IT,11,100956.93
+40,Other,Master's,Operations,6,53932.58
+41,Female,High School,Sales,7,78182.89
+60,Male,PhD,Engineering,19,80604.31
+26,Male,Bachelor's,Legal,1,149195.51
+59,Other,PhD,Finance,20,149193.75
+22,Other,Master's,Sales,2,58678.82
+33,Female,Bachelor's,Sales,7,75395.38
+25,Other,PhD,IT,0,137817.52
+35,Female,PhD,IT,9,85566.13
+42,Male,Bachelor's,Operations,1,108431.39
+51,Female,PhD,Marketing,32,67675.14
+31,Female,Master's,Finance,1,130359.52
+49,Female,Bachelor's,Operations,8,147815.12
